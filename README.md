@@ -1,13 +1,9 @@
-# 'Oloquinho' Command Line Sound
+# 'Risadinha' Command Line Sound
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
-<div style="text-align: center">
-    <img src="./oloquinho.jpg" height="300"/>
-</div>
+Play famous "Risadinha de ladrão" sound.
 
-Play famous "Oloquinho meu" sound.
-
-https://www.youtube.com/watch?v=w0hXSWDRrZ0
+https://www.youtube.com/watch?v=ILDCLd8k8zE
 
 Built with the work of [Omaewa](https://github.com/BrOrlandi/omaewa) command line sound.
 
@@ -21,24 +17,24 @@ Built with the work of [Omaewa](https://github.com/BrOrlandi/omaewa) command lin
 
 Install globally:
 
-    npm install -g oloquinho
+    npm install -g risadinha
 
 ## Running
 
 With npm:
 
-    npm install -g oloquinho
-    oloquinho
+    npm install -g risadinha
+    risadinha
 
 Npx:
 
-    npx oloquinho
+    npx risadinha
 
 Node script:
 
-    import oloquinho from 'oloquinho';
+    import risadinha from 'risadinha';
 
-    oloquinho();
+    risadinha();
 
 ## See also
 

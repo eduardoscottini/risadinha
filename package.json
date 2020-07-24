@@ -1,24 +1,24 @@
 {
-  "name": "oloquinho",
+  "name": "risadinha",
   "version": "1.1.0",
-  "description": "Oloquinho meu",
+  "description": "risadinha",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/luanorlandi/oloquinho.git"
+    "url": "git+ssh://git@github.com/luanorlandi/risadinha.git"
   },
   "author": "Luan Orlandi <luanorlandi@gmail.com>",
   "license": "MIT",
   "bin": {
-    "oloquinho": "./src/cli.js"
+    "risadinha": "./src/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/luanorlandi/oloquinho/issues"
+    "url": "https://github.com/luanorlandi/risadinha/issues"
   },
-  "homepage": "https://github.com/luanorlandi/oloquinho#readme",
+  "homepage": "https://github.com/luanorlandi/risadinha#readme",
   "dependencies": {
     "meow": "^5.0.0"
   }
